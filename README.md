@@ -52,12 +52,7 @@ func main() {
 ## Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nonlyy2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&icon_color=888888&text_color=888888&hide=stars"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlyy2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=888888"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nonlyy2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1c1c1c&ring=444444&fire=888888&currStreakLabel=e6e6e6&sideLabels=888888&dates=555555&hide_total_contributions=true&hide_longest_streak=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nonlyy2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&icon_color=888888&text_color=888888&hide=stars" />&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlyy2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=888888" />
 </div>
 
 <div align="center">
