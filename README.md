@@ -57,6 +57,10 @@ func main() {
 </div>
 
 <div align="center">
+  <img src="https://leetcard.jacoblin.cool/nonlyy2?theme=dark&font=Sarala&ext=heatmap"/>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=nonlyy2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1c1c1c&ring=444444&fire=888888&currStreakLabel=e6e6e6&sideLabels=888888&dates=555555"/>
 </div>
 
@@ -76,7 +80,7 @@ func main() {
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/@aslkhn-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aslkhn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-assylkhankerey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assylkhankerey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Assylkhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assylkhankerey/)
 [![Email](https://img.shields.io/badge/Email-assylkhan.kerey@nu.edu.kz-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:assylkhan.kerey@nu.edu.kz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-nonlyy2-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nonlyy2/)
 
