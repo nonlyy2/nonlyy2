@@ -57,11 +57,11 @@ func main() {
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nonlyy2?theme=dark&font=Sarala&ext=heatmap"/>
+  <img src="https://streak-stats.demolab.com?user=nonlyy2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1c1c1c&ring=444444&fire=888888&currStreakLabel=e6e6e6&sideLabels=888888&dates=555555&hide_total_contributions=true&hide_longest_streak=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nonlyy2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1c1c1c&ring=444444&fire=888888&currStreakLabel=e6e6e6&sideLabels=888888&dates=555555"/>
+  <img src="https://leetcard.jacoblin.cool/nonlyy2?theme=dark&font=Sarala"/>
 </div>
 
 &nbsp;
