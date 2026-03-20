@@ -51,9 +51,12 @@ func main() {
 
 ## Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nonlyy2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&icon_color=888888&text_color=888888&hide=stars" />&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlyy2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=888888" />
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img height="160em" src="https://github-readme-stats.vercel.app/api?username=nonlyy2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&icon_color=888888&text_color=888888&hide=stars"/></td>
+    <td><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlyy2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=888888"/></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nonlyy2?theme=dark&font=Sarala"/>
